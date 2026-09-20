@@ -62,7 +62,7 @@
 60,斯卡米留尼的魔力,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
 61,拉哈布雷亚的魔力,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
 62,尼德霍格的魔力,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
-63,饱食度,,30,50,0,0,2,3,1,1,1,False
+63,饱腹度,,30,50,0,0,2,3,1,1,1,False
 64,外层魔法障壁的耐久度,,30,70,0,0,2,3,1,1,1,False
 65,露琪亚等人的体力,,30,70,0,0,2,3,1,1,1,False
 66,凯纳槽的魔力,ContentGaugeMax_negative,100,-1,0,0,1,2,0,1,1,True
@@ -91,6 +91,12 @@
 89,格莱杨拉波尔的魔力,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
 90,可露儿的魔力,ContentGaugeMax_positive,-1,-1,0,0,1,0,0,1,1,True
 91,割草之魂,,50,100,0,0,1,3,2,1,1,True
-92,,,0,0,0,0,0,0,0,0,0,False
+92,石剑的魔力,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
 93,巨大重力块,,-1,-1,0,0,2,0,0,1,1,False
-94,,,0,0,0,0,0,0,0,0,0,False
+94,赤龙的魔力,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+95,以太填充率,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+96,萨尔镇压隶的魔力,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+97,以太供给率,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+98,普罗玛西亚的魔力,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+99,无之力,ContentGaugeMax_negative,60,90,0,0,1,3,2,1,1,True
+100,,,0,0,0,0,0,0,0,0,0,False
