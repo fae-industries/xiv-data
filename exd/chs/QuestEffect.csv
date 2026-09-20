@@ -1,4 +1,4 @@
-#,UnknownStruct[0].Unknown1,UnknownStruct[0].Unknown_70,UnknownStruct[0].Unknown2,UnknownStruct[1].Unknown1,UnknownStruct[1].Unknown_70,UnknownStruct[1].Unknown2,UnknownStruct[2].Unknown1,UnknownStruct[2].Unknown_70,UnknownStruct[2].Unknown2,UnknownStruct[3].Unknown1,UnknownStruct[3].Unknown_70,UnknownStruct[3].Unknown2,Unknown8,Unknown9,Unknown_70
+#,Effects[0].Param1,Effects[0].Param2,Effects[0].Type,Effects[1].Param1,Effects[1].Param2,Effects[1].Type,Effects[2].Param1,Effects[2].Param2,Effects[2].Type,Effects[3].Param1,Effects[3].Param2,Effects[3].Type,OutOfRangeWarningMessage,OutOfRangeMessage,Unknown_70
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
@@ -325,7 +325,7 @@
 323,358,0,8,0,0,0,0,0,0,0,0,0,0,0,False
 324,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 325,360,0,8,361,0,8,0,0,0,0,0,0,0,0,False
-326,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
+326,581,0,1,0,0,0,0,0,0,0,0,0,0,0,False
 327,362,0,8,0,0,0,0,0,0,0,0,0,0,0,False
 328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 329,364,0,8,0,0,0,0,0,0,0,0,0,0,0,False
@@ -333,3 +333,19 @@
 331,50059,250,34,0,0,0,0,0,0,0,0,0,0,0,False
 332,50059,350,34,0,0,0,0,0,0,0,0,0,0,0,False
 333,50059,450,34,0,0,0,0,0,0,0,0,0,0,0,False
+334,447,0,3,0,0,0,0,0,0,0,0,0,0,0,False
+335,383,0,8,384,0,8,0,0,0,0,0,0,0,0,False
+336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
+337,387,0,8,0,0,0,0,0,0,0,0,0,0,0,False
+338,388,0,8,0,0,0,0,0,0,0,0,0,0,0,False
+339,389,0,8,390,0,8,0,0,0,0,0,0,0,0,False
+340,0,0,43,0,0,0,0,0,0,0,0,0,0,0,False
+341,1,0,45,0,0,0,0,0,0,0,0,0,0,0,False
+342,3,0,46,0,0,0,0,0,0,0,0,0,0,0,False
+343,14,0,44,0,0,0,0,0,0,0,0,0,0,0,False
+344,16,0,44,0,0,0,0,0,0,0,0,0,0,0,False
+345,13,0,45,0,0,0,0,0,0,0,0,0,0,0,False
+346,22,0,44,0,0,0,0,0,0,0,0,0,0,0,False
+347,15,0,46,0,0,0,0,0,0,0,0,0,0,0,False
+348,20,0,46,0,0,0,0,0,0,0,0,0,0,0,False
+349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False

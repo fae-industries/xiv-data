@@ -1,4 +1,4 @@
-#,Singular,Plural,TitleCase,Description,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9,Icon
+#,Singular,Plural,TitleCase,Description,Adjective,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Icon
 0,,,,,0,0,0,1,0,0,0
 1,,,乌内亚灵复制体,记载了乌内数据的神典石。通过亚灵复制体生成器解析读取后，即可召唤乌内亚灵复制体。,0,0,0,1,0,0,27970
 2,,,多加亚灵复制体,记载了多加数据的神典石。通过亚灵复制体生成器解析读取后，即可召唤多加亚灵复制体。,0,0,0,1,0,0,27971

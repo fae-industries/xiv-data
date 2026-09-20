@@ -1,4 +1,4 @@
-#,Singular,Plural,Name,Tooltip,Adjective,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Icon,Action
+#,Singular,Plural,Name,Tooltip,Adjective,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Icon,Action
 0,,,,,0,0,0,1,0,0,0,0
 1,,,魔陶器：咒印解除,清除本层所有陷阱,0,0,0,1,0,0,27901,6259
 2,,,魔陶器：全景,点亮本层所有地图，可看到本层所有陷阱,0,0,0,1,0,0,27902,6260

@@ -1,4 +1,4 @@
-#,Singular,Plural,Adjective,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,ExteriorRoof,ExteriorWall,ExteriorWindow,ExteriorDoor,InteriorWall,InteriorFlooring,InteriorLighting,OtherFloorWall,OtherFloorFlooring,OtherFloorLighting,BasementWall,BasementFlooring,BasementLighting,MansionLighting,PlaceName,HousingSize
+#,Singular,Plural,Adjective,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,ExteriorRoof,ExteriorWall,ExteriorWindow,ExteriorDoor,InteriorWall,InteriorFlooring,InteriorLighting,OtherFloorWall,OtherFloorFlooring,OtherFloorLighting,BasementWall,BasementFlooring,BasementLighting,MansionLighting,PlaceName,HousingSize
 262144,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 262145,木制海滨小屋,,0,0,0,1,0,0,6347,6374,6401,6410,6455,6458,6461,0,0,0,6455,6458,6461,0,22,0
 262146,混合制海滨小屋,,0,0,0,1,0,0,6348,6375,6402,6411,6455,6458,6461,0,0,0,6455,6458,6461,0,22,0
@@ -53,3 +53,6 @@
 262195,,,0,0,0,1,0,0,0,0,0,0,44870,44871,44872,0,0,0,44870,44871,44872,0,0,0
 262196,,,0,0,0,1,0,0,0,0,0,0,44870,44871,44872,44870,44871,44872,44870,44871,44872,0,0,0
 262197,,,0,0,0,1,0,0,0,0,0,0,44870,44871,44872,44870,44871,44872,44870,44871,44872,44872,0,0
+262198,,,0,0,0,1,0,0,0,0,0,0,51248,51249,51250,0,0,0,51248,51249,51250,0,0,0
+262199,,,0,0,0,1,0,0,0,0,0,0,51248,51249,51250,51248,51249,51250,51248,51249,51250,0,0,0
+262200,,,0,0,0,1,0,0,0,0,0,0,51248,51249,51250,51248,51249,51250,51248,51249,51250,51250,0,0

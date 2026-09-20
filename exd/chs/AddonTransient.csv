@@ -1,7 +1,7 @@
-#,Unknown0
+#,Text
 0,
 1,收回物品
-2,+ 粘贴 删除 软键盘
+2,+ 粘贴 删除 
 3,改变队员排列顺序  次级指令
 4,开始搜索
 5,次级指令 购买 选择要出售的道具
@@ -74,7 +74,7 @@
 72,次级指令  选择消息窗口  切换所选分栏  放大消息窗口
 73,次级指令  返回聊天操作  放大消息窗口
 74,次级指令  返回聊天操作  将消息窗口恢复原尺寸
-75,历史记录 + 粘贴 删除 定型文 软键盘
+75,历史记录 + 粘贴 删除 定型文 
 76,返回  前进  定型文
 77,次级指令  应用
 78,应用  删除设置　
@@ -230,14 +230,20 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
 ------
 “DUALSHOCK” and “DualSense” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc.
+------
+
+
+------------------------
+QR Code is a registered trademark of DENSO WAVE INCORPORATED in Japan and in other countries.
+------------------------"
 174,选择分类
 175,切换工程  次级指令
 176,切换工程  次级指令
 177,取消  出发
 178,次级指令
 179,选择 关闭 确定并关闭
-180,历史记录 + 粘贴 删除 软键盘
+180,历史记录 + 粘贴 删除 
 181,次级指令 保存更改并关闭
 182,保存更改并关闭
 183,次级指令  打开宠物一览
@@ -416,12 +422,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 277,召唤/收回 次级指令 编辑宠物热键栏
 278,召唤/收回 次级指令 移动常用列表中宠物的位置
 279,移动 确定 取消
-280,历史记录 + 粘贴 软键盘
+280,历史记录 + 粘贴 
 281,移动 召唤/收回 次级指令
 282,召唤 次级指令
 283,召唤 次级指令 移动常用列表中坐骑的位置
 284,移动 确定 取消
-285,历史记录 + 粘贴 软键盘
+285,历史记录 + 粘贴 
 286,移动 召唤 次级指令
 287,移动 确定 取消
 288,召唤/收回 次级指令
@@ -441,14 +447,14 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 302,次级指令
 303,查看个人房间资料
 304,查看公寓房间资料
-305,删除 软键盘
+305,删除 
 306,次级指令
 307,召唤 设置热键 编辑宠物热键栏
 308,召唤 设置热键 
 309,召唤 设置热键 
 310,切换关卡信息
-311,确定 滚动查看详细情报
-312,确定
+311,确定 返回原始服务器 滚动查看详细情报
+312,确定 返回原始服务器
 313,鸣牌设置切换 辅助功能
 314,获取在线状态  次级指令  返回
 315,切换关卡信息　确认有效的异常状态
@@ -522,7 +528,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 383,
 384,
 385,快速滚动 次级指令
-386,历史记录 + 粘贴 删除 软键盘
+386,历史记录 + 粘贴 删除 
 387,领取奖励  次级指令
 388,次级指令
 389,次级指令
@@ -784,20 +790,20 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 504,サブコマンド 複数選択 カーソルの移動
 505,开关并预览 预览 移動 旋转 ＋缩放
 506,应用
-507,
-508,
-509,
-510,
-511,
-512,
-513,
-514,
-515,
-516,
-517,
-518,
-519,
-520,
+507,次级指令
+508,确定 选择大区 返回原始服务器 滚动查看详细情报
+509,确定 选择大区 返回原始服务器
+510,次级指令
+511,查看详情　次级指令
+512,确认编队
+513,确认奇盘事件构成　次级指令
+514,出售　次级指令　道具列表
+515,次级指令　道具列表
+516,返回魔兽一览
+517,所持道具栏
+518,查看详情
+519,确认奇盘事件构成
+520,勾选/解除  勾选/解除组内其他项  決定
 521,
 522,
 523,
