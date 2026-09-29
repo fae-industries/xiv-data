@@ -21,7 +21,7 @@
 看來……強化階段是沒有問題的。
 那就請你盡情觀賞一下鬼師的技術吧……"
 12,TEXT_DEEPDUNGEON2REWARD_TEST_EXCHANGE_MENU_TITLE,"確定要製作「」嗎？
-**※「聚魔裝備（武器·盾）」和「聚魔裝備（防具）」的強化值都會減少10。**"
+**※「聚魔裝備（武器・盾）」和「聚魔裝備（防具）」的強化值都會減少10。**"
 13,TEXT_DEEPDUNGEON2REWARD_DD2SHOP_100_110,"為了把聚魔裝備拿出迷宮，你希望我將乙太結晶化？
 抱歉，請你優先進行探索，
 拿出裝備的事情之後再說吧。"
@@ -32,7 +32,7 @@
 需要在天之御柱內部將聚魔裝備強化到一定階段。
 現在你持有的聚魔裝備還沒有達到那個階段。"
 16,TEXT_DEEPDUNGEON2REWARD_SYSTEM_000_111,"想要製作，
-需要「聚魔裝備（武器·盾）」
+需要「聚魔裝備（武器・盾）」
 和「聚魔裝備（防具）」的強化值都在10以上。"
 17,TEXT_DEEPDUNGEON2REWARD_ABOUT_MENU_TITLE,想了解什麼？
 18,TEXT_DEEPDUNGEON2REWARD_START_ABOUT_TOKEN,關於道具交換
@@ -63,7 +63,7 @@
 29,TEXT_DEEPDUNGEON2REWARD_SYSTEM_000_203,"想要將天之武器帶出迷宮，需要。
 能夠帶出的只有武器和盾。"
 30,TEXT_DEEPDUNGEON2REWARD_SYSTEM_000_204,"想要製作「」，
-需要消耗「聚魔裝備（武器·盾）」和
+需要消耗「聚魔裝備（武器・盾）」和
 「聚魔裝備（防具）」的強化值各10點。"
 31,TEXT_DEEPDUNGEON2REWARD_SYSTEM_000_205,"另外，想要製作或帶出天之武器，
 必須先突破天之御柱的30層，

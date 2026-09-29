@@ -31,9 +31,9 @@
 24,TEXT_CMNDEFCOMPANYCOMMANDERBOARD_00258_AIRSHIP_NAME_CAPTION,飛空艇的名字
 25,TEXT_CMNDEFCOMPANYCOMMANDERBOARD_00258_AIRSHIP_NAME_MES_0,"名稱中可以使用漢字、字母、數字、空格以及下列符號。
 **'. , : ; ! ? & - _**
-·空格與下劃線無法連續使用。
-·空格無法用在開頭和結尾。
-·無法建立只使用符號的名稱。"
+・空格與下劃線無法連續使用。
+・空格無法用在開頭和結尾。
+・無法建立只使用符號的名稱。"
 26,TEXT_CMNDEFCOMPANYCOMMANDERBOARD_00258_REMOVE_AIRSHIP_TITLE,"確定要對飛空艇UNKNOWN進行解體嗎？
 **正在裝備的道具將會被返還，
 但不會返還飛空艇登記票。

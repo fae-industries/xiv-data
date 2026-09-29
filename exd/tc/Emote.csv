@@ -291,7 +291,7 @@
 289,,0,0,8154,0,8152,8152,8152,0,0,0,64461,8311,8310,715,1,0,True,True,True,False,True,False,False,False
 290,,0,0,8155,0,8152,8152,8152,0,0,0,64461,8311,8310,715,1,0,True,True,True,False,True,False,False,False
 291,大驚小怪,543,692,8153,0,8157,8157,8157,0,0,5025,64462,8315,8314,720,1,0,True,True,True,False,True,False,False,False
-292,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False
+292,轉圈,544,693,8158,0,0,0,0,0,0,6108,64463,8317,8316,725,1,0,False,False,False,False,True,False,False,False
 293,暈頭轉向,545,694,8142,8141,0,0,0,0,0,11513,64464,8319,8318,720,2,79,False,False,False,False,True,False,False,False
 294,氣得發抖,546,695,8160,8159,0,0,0,0,0,11514,64465,8321,8320,721,2,80,False,False,False,False,True,False,False,False
 295,玩神典石,406,696,8162,8161,0,0,0,0,0,11515,64466,8323,8322,720,2,81,False,False,False,False,True,False,False,False
