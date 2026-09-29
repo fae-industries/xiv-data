@@ -28,7 +28,7 @@
 18,TEXT_VOICEMAN_07002_000180_WUKLAMAT,"巴庫加加你這混蛋！
 用了那麼卑鄙的手段，竟然還有臉站在這裡！"
 19,TEXT_VOICEMAN_07002_000190_HUNMURRUK,(-沉著的靈豹之民男性-)既然人齊了，我們就開始吧。
-20,TEXT_VOICEMAN_07002_000200_HUNMURRUK,"我叫洪姆·魯可，是靈豹之民的族長，
+20,TEXT_VOICEMAN_07002_000200_HUNMURRUK,"我叫洪姆・魯可，是靈豹之民的族長，
 在這次繼位儀式中擔任「選王之人」。"
 21,TEXT_VOICEMAN_07002_000210_HUNMURRUK,"「食之試煉」需要四位候選人齊聚一堂，
 所以我們一直在等你們。"
@@ -234,7 +234,7 @@
 137,TEXT_VOICEMAN_07002_001280_SAREELJA,唔……
 138,TEXT_VOICEMAN_07002_001290_BAKOOLJAJA,"(-巴庫加加勇戰之頭-)這不怪我們吧！
 都是因為你，我們才找不到那該死的葉子啊！"
-139,TEXT_VOICEMAN_07002_001300_HUNMURRUK,"可是，烏克·拉瑪特公主和柯納王子就找到了呀。
+139,TEXT_VOICEMAN_07002_001300_HUNMURRUK,"可是，烏克・拉瑪特公主和柯納王子就找到了呀。
 因為他們想要了解我們的文化與歷史。"
 140,TEXT_VOICEMAN_07002_001310_BAKOOLJAJA,(-巴庫加加勇戰之頭-)那又怎麼了？！沒有那破葉子也沒什麼區別吧！
 141,TEXT_VOICEMAN_07002_001320_HUNMURRUK,"那可是輝鱗族文化的象徵，在烹飪過程中也是不可或缺的材料。
@@ -272,17 +272,17 @@
 剛才那些其實有點不太夠……"
 162,TEXT_VOICEMAN_07002_001530_WUKLAMAT,"你要帶我們去哪？
 還有，我重要的人又是說誰？"
-163,TEXT_VOICEMAN_07002_001540_WUKLAMAT,洪姆·魯可？！為什麼你會在這裡……
+163,TEXT_VOICEMAN_07002_001540_WUKLAMAT,洪姆・魯可？！為什麼你會在這裡……
 164,TEXT_VOICEMAN_07002_001550_WUKLAMAT,"巴庫加加，你這混蛋到底要幹什麼？！
 要搶秘石就對著我來，別對無關的人動手啊！"
 165,TEXT_VOICEMAN_07002_001560_BAKOOLJAJA,(-巴庫加加勇戰之頭-)咕哈哈哈咕哈！
 166,TEXT_VOICEMAN_07002_001570_BAKOOLJAJA,"(-巴庫加加勇戰之頭-)無關的人？
 小笨貓，他和你可太有關係了！"
-167,TEXT_VOICEMAN_07002_001580_BAKOOLJAJA,"(-巴庫加加勇戰之頭-)因為，這位洪姆·魯可先生……
+167,TEXT_VOICEMAN_07002_001580_BAKOOLJAJA,"(-巴庫加加勇戰之頭-)因為，這位洪姆・魯可先生……
 正是你的親生父親！"
 168,TEXT_VOICEMAN_07002_001590_BAKOOLJAJA,"(-巴庫加加御魔之頭-)不信我們嗎？可惜這都是事實！
 我們聽到了他和那位冒險者的談話！"
-169,TEXT_VOICEMAN_07002_001600_WUKLAMAT,他說的是真的嗎？洪姆·魯可真的是我的親爹？
+169,TEXT_VOICEMAN_07002_001600_WUKLAMAT,他說的是真的嗎？洪姆・魯可真的是我的親生老爸？
 170,TEXT_VOICEMAN_07002_001610_WUKLAMAT,好吧，不用說了……
 171,TEXT_VOICEMAN_07002_001620_BAKOOLJAJA,(-巴庫加加勇戰之頭-)明白了吧！那就賭上你的秘石，和老子單挑！
 172,TEXT_VOICEMAN_07002_001630_BAKOOLJAJA,(-巴庫加加勇戰之頭-)如果那個冒險者出手搗亂……
@@ -304,7 +304,7 @@
 你們也就兩個頭對我一個頭才不會害怕吧？！"
 182,TEXT_VOICEMAN_07002_001700_BAKOOLJAJA,(-巴庫加加勇戰之頭-)你說誰是膽小鬼？！
 183,TEXT_VOICEMAN_07002_Q1_000_001_NONE_VOICE,要說什麼？
-184,TEXT_VOICEMAN_07002_A1_000_001_NONE_VOICE,烏克·拉瑪特不會輸給你這種卑鄙小人
+184,TEXT_VOICEMAN_07002_A1_000_001_NONE_VOICE,烏克・拉瑪特不會輸給你這種卑鄙小人
 185,TEXT_VOICEMAN_07002_A1_000_002_NONE_VOICE,在受傷前趕快滾吧
 186,TEXT_VOICEMAN_07002_A1_000_003_NONE_VOICE,放心吧膽小鬼，我不會出手的
 187,TEXT_VOICEMAN_07002_001710_BAKOOLJAJA,(-巴庫加加勇戰之頭-)你竟然敢看不起老子！！
@@ -346,12 +346,12 @@
 215,TEXT_VOICEMAN_07002_001970_HOOBIGOBAKOOLJAJAMINIONSA,按照約定，我們會放了人質。
 216,TEXT_VOICEMAN_07002_001980_HUNMURRUK,抱歉，是我太不小心了。
 217,TEXT_VOICEMAN_07002_001990_WUKLAMAT,你沒受傷吧？
-218,TEXT_VOICEMAN_07002_002000_WUKLAMAT,那個……他們說你是我的親爹……
+218,TEXT_VOICEMAN_07002_002000_WUKLAMAT,那個……他們說你是我的親生老爸……
 219,TEXT_VOICEMAN_07002_002010_HUNMURRUK,"太了不起了！您居然打敗了那個巴庫加加！
 哈哈哈哈，不愧是古魯加加大人的女兒啊！"
-220,TEXT_VOICEMAN_07002_002020_HUNMURRUK,"圖萊尤拉的第一公主——烏克·拉瑪特大人，
+220,TEXT_VOICEMAN_07002_002020_HUNMURRUK,"圖萊尤拉的第一公主——烏克・拉瑪特大人，
 見證您的成長是我的榮幸，我也會為您感到驕傲。"
-221,TEXT_VOICEMAN_07002_002030_WUKLAMAT,是啊，我的名字是烏克·拉瑪特。
+221,TEXT_VOICEMAN_07002_002030_WUKLAMAT,是啊，我的名字是烏克・拉瑪特。
 222,TEXT_VOICEMAN_07002_002040_WUKLAMAT,是聯王古魯加加的女兒，繼承王位之人！
 223,TEXT_VOICEMAN_07002_002050_WUKLAMAT,好了，我們快回去吧！
 224,TEXT_VOICEMAN_07002_002060_SYSTEM_NONE_VOICE,不久前 第二王子柯納團隊
@@ -477,7 +477,7 @@
 293,TEXT_VOICEMAN_07002_002710_MIILALJA,你還是一點沒變啊，傷心時就會來這裡哭。
 294,TEXT_VOICEMAN_07002_002720_BAKOOLJAJA,(-巴庫加加兄弟一同-)母親？！
 295,TEXT_VOICEMAN_07002_002730_BAKOOLJAJA,(-巴庫加加兄弟一同-)母親？！
-296,TEXT_VOICEMAN_07002_002740_MIILALJA,"既然烏克·拉瑪特公主想要了解瑪穆克……
+296,TEXT_VOICEMAN_07002_002740_MIILALJA,"既然烏克・拉瑪特公主想要了解瑪穆克……
 那她或許能夠結束我們所背負的罪孽，
 所以我帶她來了這裡。"
 297,TEXT_VOICEMAN_07002_002750_MIILALJA,巴庫加加，給他們講講你的故事吧。
@@ -553,10 +553,10 @@
 340,TEXT_VOICEMAN_07002_003106_BAKOOLJAJA,(-巴庫加加御魔之頭-)欸？
 341,TEXT_VOICEMAN_07002_003107_BAKOOLJAJA,(-巴庫加加勇戰之頭-)呵。
 342,TEXT_VOICEMAN_07002_003108_BAKOOLJAJA,(-巴庫加加御魔之頭-)呵。
-343,TEXT_VOICEMAN_07002_003110_BAKOOLJAJA,(-巴庫加加兄弟一同-)謝謝你，烏克·拉瑪特。
+343,TEXT_VOICEMAN_07002_003110_BAKOOLJAJA,(-巴庫加加兄弟一同-)謝謝你，烏克・拉瑪特。
 344,TEXT_VOICEMAN_07002_003115_BAKOOLJAJA,
 345,TEXT_VOICEMAN_07002_003116_BAKOOLJAJA,
-346,TEXT_VOICEMAN_07002_003120_BAKOOLJAJA,(-巴庫加加兄弟一同-)謝謝你，烏克·拉瑪特。
+346,TEXT_VOICEMAN_07002_003120_BAKOOLJAJA,(-巴庫加加兄弟一同-)謝謝你，烏克・拉瑪特。
 347,TEXT_VOICEMAN_07002_003130_ALISAIE,確實，比起一直討厭對方，還是現在這樣更好啊。
 348,TEXT_VOICEMAN_07002_003140_ALPHINAUD,"我們回瑪穆克去吧，
 有巴庫加加的鱗片，我們一定能號召到不少人。"
@@ -611,7 +611,7 @@
 379,TEXT_VOICEMAN_07002_003440_WUKLAMAT,"這不是塔恩夸爺爺嗎？！
 好久不見！"
 380,TEXT_VOICEMAN_07002_003450_KETENRAMM,"(-被稱為塔恩夸的老人-)確實很久了，
-久到你已經變得這麼可靠了啊，烏克·拉瑪特。"
+久到你已經變得這麼可靠了啊，烏克・拉瑪特。"
 381,TEXT_VOICEMAN_07002_003460_ALPHINAUD,塔恩夸？
 382,TEXT_VOICEMAN_07002_003470_KETENRAMM,"(-被稱作塔恩夸的老人-)塔恩夸是我在這邊的名字，
 原本的名字輝鱗族的舌頭不太好發音，
@@ -626,7 +626,7 @@
 不是一個合格的選王之人。"
 389,TEXT_VOICEMAN_07002_003540_ZEREELJA,她那能算完成？不就是因為隨從多！
 390,TEXT_VOICEMAN_07002_Q2_000_001_NONE_VOICE,要說什麼？
-391,TEXT_VOICEMAN_07002_A2_000_001_NONE_VOICE,我們不是隨從，是烏克·拉瑪特的同伴
+391,TEXT_VOICEMAN_07002_A2_000_001_NONE_VOICE,我們不是隨從，是烏克・拉瑪特的同伴
 392,TEXT_VOICEMAN_07002_A2_000_002_NONE_VOICE,你好歹也是瑪穆克的領導者，留點面子吧
 393,TEXT_VOICEMAN_07002_003550_ZEREELJA,同伴？你們認為聯王也需要同伴？
 394,TEXT_VOICEMAN_07002_003560_ZEREELJA,"哼，體面？早就被我丟掉了。
@@ -641,7 +641,7 @@
 就不要輕易說出「建立友誼」這種話，
 尤其是對我這種害死了無數嬰兒的人……"
 401,TEXT_VOICEMAN_07002_003620_ZEREELJA,"不過，我還是會完成自己的使命。
-烏克·拉瑪特公主，作為完成「友之試煉」的證明，
+烏克・拉瑪特公主，作為完成「友之試煉」的證明，
 請收下這顆秘石。"
 402,TEXT_VOICEMAN_07002_003630_KOANA,"說恭喜……好像還太早了，
 你們還需要找到黃金鄉才行，
@@ -653,7 +653,7 @@
 406,TEXT_VOICEMAN_07002_003670_KOANA,"謝謝你們跨過大海來到這裡，還幫了我這麼多，
 結果我卻沒能夠回應你們的期待……非常抱歉。"
 407,TEXT_VOICEMAN_07002_003680_THANCRED,"沒有必要道歉。
-你相信烏克·拉瑪特公主，並將王位託付給她，
+你相信烏克・拉瑪特公主，並將王位託付給她，
 那我們也會相信你的選擇。"
 408,TEXT_VOICEMAN_07002_003690_KOANA,"然後還有……
 我已經沒有後面的旅途了，所以還有最後一句話想說，
@@ -687,7 +687,7 @@
 428,TEXT_VOICEMAN_07002_003870_KRILE,你們看，那邊用的是薩雷安的封印裝置！
 429,TEXT_VOICEMAN_07002_003880_WUKLAMAT,該怎麼打開它？
 430,TEXT_VOICEMAN_07002_003890_ALPHINAUD,你們過來看看這個！
-431,TEXT_VOICEMAN_07002_003900_ALPHINAUD,烏克·拉瑪特，你把石板放上去試試。
+431,TEXT_VOICEMAN_07002_003900_ALPHINAUD,烏克・拉瑪特，你把石板放上去試試。
 432,TEXT_VOICEMAN_07002_003910_WUKLAMAT,不愧是阿爾菲諾！
 433,TEXT_VOICEMAN_07002_003920_WUKLAMAT,這裡就是……黃金鄉？
 434,TEXT_VOICEMAN_07002_003930_KRILE,"不好說呀……
@@ -706,7 +706,7 @@
 我可以和你們保證，這扇門的另一面就是傳說中的黃金鄉，
 但現在出於某些原因，我們無法打開它……"
 444,TEXT_VOICEMAN_07002_004030_GULOOLJAJA,"黃金鄉到底是什麼，為什麼要將它藏起來……
-以及，我委託加拉夫·巴爾德西昂調查了什麼……"
+以及，我委託加拉夫・巴爾德西昂調查了什麼……"
 445,TEXT_VOICEMAN_07002_004040_GULOOLJAJA,"在繼位大典之後，我會一五一十地告訴你，拉瑪提。
 然後就由你來決定，該如何處理這些真相。"
 446,TEXT_VOICEMAN_07002_004050_ERENVILLE,不管怎麼樣，黃金鄉是真實存在的……
@@ -727,9 +727,9 @@
 460,TEXT_VOICEMAN_07002_004170_GULOOLJAJA,"行了，嚴肅的演說到此結束。
 我還是先介紹一下繼位儀式的獲勝者吧！
 她不但通過了所有的試煉，而且還找到了傳說中的黃金鄉！"
-461,TEXT_VOICEMAN_07002_004180_GULOOLJAJA,我的女兒，烏克·拉瑪特！
+461,TEXT_VOICEMAN_07002_004180_GULOOLJAJA,我的女兒，烏克・拉瑪特！
 462,TEXT_VOICEMAN_07002_004190_HANUHANUMALEAUDA,可喜可賀、可喜可賀！
-463,TEXT_VOICEMAN_07002_004200_PELUPELUMALEAUDA,烏克·拉瑪特王萬歲！圖萊尤拉萬歲！
+463,TEXT_VOICEMAN_07002_004200_PELUPELUMALEAUDA,烏克・拉瑪特王萬歲！圖萊尤拉萬歲！
 464,TEXT_VOICEMAN_07002_004210_WUKLAMAT,"在踏上旅途之前，
 我一直以為我已經完全瞭解了圖萊尤拉……"
 465,TEXT_VOICEMAN_07002_004220_WUKLAMAT,"但出發之後，我發現我欠缺的知識太多了。
@@ -739,7 +739,7 @@
 我知道了他們會在展翅節祈願所有生命繁榮昌盛。"
 467,TEXT_VOICEMAN_07002_004240_WUKLAMAT,"與佩魯佩魯族的交談，
 讓我得知了他們如何精心養育羊駝。
-我本來是很害怕羊駝的，但在那次之後，我也慢慢喜歡上了它們。"
+我本來很害怕羊駝，但在那次之後，我也慢慢喜歡上了牠們。"
 468,TEXT_VOICEMAN_07002_004250_WUKLAMAT,"我知道了莫布林族與罐子工之間的關係，
 現在，他們協力創造出來的東西，讓我覺得更加耀眼。"
 469,TEXT_VOICEMAN_07002_004260_WUKLAMAT,"我還被尤卡巨人族的歷史與思想所打動，
@@ -754,7 +754,7 @@
 也好好談了談結束苦難的方法，
 相信不久之後，他們就會與圖萊尤拉建立友好關係了吧。"
 473,TEXT_VOICEMAN_07002_004300_BOONEWAFEMALEAUD,"那些雙血教的信徒願意與外人建立友好關係？
-烏克·拉瑪特王到底用了什麼魔法？"
+烏克・拉瑪特王到底用了什麼魔法？"
 474,TEXT_VOICEMAN_07002_004310_WUKLAMAT,"總之，我瞭解了生活在圖萊尤拉的人們，
 也學到了傳承至今的文化與歷史，
 但同時，我也發現了這個國家還有很多問題需要改善。"
@@ -832,7 +832,7 @@
 516,TEXT_VOICEMAN_07002_004690_KETENRAMM,"長年排斥外族的瑪穆克，這麼快就開始了改變。
 而這一切，竟然是受到個小姑娘的影響。"
 517,TEXT_VOICEMAN_07002_004700_KETENRAMM,"呵……
-烏克·拉瑪特那丫頭，越來越像她老爹了。"
+烏克・拉瑪特那丫頭，越來越像她老爹了。"
 518,TEXT_VOICEMAN_07002_004710_KETENRAMM,"她坐上王位後會為這個國家帶來什麼樣的變化……
 就讓我在餘下不多的日子裡好好看看吧。"
 519,TEXT_VOICEMAN_07002_004720_KETENRAMM,
@@ -840,7 +840,7 @@
 521,TEXT_VOICEMAN_07002_004740_WUKLAMAT,是啊，抱歉讓你們久等了！
 522,TEXT_VOICEMAN_07002_004750_WUKLAMAT,"其實，我還有一件事想跟你商量……
 柯納哥應該也對你說了吧？"
-523,TEXT_VOICEMAN_07002_004760_WUKLAMAT,"我想請你留下來輔助我。
+523,TEXT_VOICEMAN_07002_004760_WUKLAMAT,"我想請你留下來輔佐我。
 我是認真的。"
 524,TEXT_VOICEMAN_07002_004770_WUKLAMAT,如果可以的話，最好今後也一直留在這裡。
 525,TEXT_VOICEMAN_07002_004780_WUKLAMAT,"不過放心，我沒有強迫你的意思。

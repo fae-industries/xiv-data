@@ -5,19 +5,19 @@
 2,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_002,"終於來了呢，歡迎來到行星研究所唷～～
 為了讓宇宙探索計畫的進度更有效率地提升，
 我們正在分析探索活動的資料，開發新的工具唷！"
-3,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_003,"你要不要也來協助探索貢獻型研究計畫「宇宙調查」呢？
+3,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_003,"你要不要也來協助探索貢獻型研究計畫「宇宙研究」呢？
 為了推進研究項目，完成探索任務累積足夠的「宇宙資料」後，
 請向我報告唷！"
 4,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_004,"現在的「宇宙工具」遠遠處於試作階段，
 分析收集的資料來推動研究進度後，
 宇宙工具應該也會慢慢升級成最新功能的唷！"
 5,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_100_005,詳細資訊請查看探索觸控板唷～～！
-6,TEXT_CTSWKSSDGATTENDANT_00920_SYSTEM_100_006,"探索貢獻型研究計畫「宇宙調查」已開放！
-透過探索觸控板的「宇宙調查」介面，
+6,TEXT_CTSWKSSDGATTENDANT_00920_SYSTEM_100_006,"探索貢獻型研究計畫「宇宙研究」已開放！
+透過探索觸控板的「宇宙研究」介面，
 可以隨時查看資料的分析情況與研究進度。"
 7,TEXT_CTSWKSSDGATTENDANT_00920_SYSTEM_100_007,"「行星探索建議」頁面中也記載了詳細說明，
 還有什麼不明白的話請隨時查看！"
-8,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_005,"這裡是進行「宇宙調查」的行星研究所唷！
+8,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_005,"這裡是進行「宇宙研究」的行星研究所唷！
 想繳交研究資料、瞭解宇宙工具的話，
 我會為您說明唷～～！"
 9,TEXT_CTSWKSSDGATTENDANT_00920_Q1_000_000,要做什麼？
@@ -33,13 +33,13 @@
 請繼續完成更多探索任務，
 能夠推進研究項目後請再來找我唷！"
 18,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_014,"研究所需要的資料量
-可以在探索觸控板的「宇宙調查」頁面中查看唷！"
+可以在探索觸控板的「宇宙研究」頁面中查看唷！"
 19,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_015,"真的很感謝您的協助呢！
 接下來我也會大力為您加油的唷～～！"
 20,TEXT_CTSWKSSDGATTENDANT_00920_EXCHANGE_CONFIRM,"繳交的研究資料，
 「」將獲得強化。
 
-**·魔晶石與精煉度將被清空。**
+**・魔晶石與精煉度將被清空。**
 
 確定要繳交嗎？"
 21,TEXT_CTSWKSSDGATTENDANT_00920_EXCHANGE_CONFIRM_CHECKBOX,繳交研究資料

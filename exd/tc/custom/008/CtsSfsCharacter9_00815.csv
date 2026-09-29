@@ -52,7 +52,7 @@
 分為能工巧匠、採掘師與園藝師、漁師三種，
 並且需要所有物品均為「收藏品」。"
 30,TEXT_CTSSFSCHARACTER9_00815_GUIDE_003_000,"製作委託品的必要材料，
-可以在伊爾美格的群花館前的因克·奧瑟處購買。"
+可以在伊爾美格的群花館前的因克・奧瑟處購買。"
 31,TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_000,"能工巧匠製作出來的產品的「收藏價值」
 會隨製作時物品品質的提高而上升。
 因此，儘量提高品質後做出成品是尤為重要的。"
@@ -96,7 +96,7 @@
 執行子選單「搜索製作道具的配方」，
 就可以打開製作筆記，看到製作配方。"
 48,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_003,"製作委託品的必要材料，
-可以在伊爾美格的群花館前的因克·奧瑟處購買。"
+可以在伊爾美格的群花館前的因克・奧瑟處購買。"
 49,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_004,"採掘師或園藝師分類的委託品，只需要在打開列表的狀態下，
 執行子選單「搜索採集方法」，
 就可以打開採集筆記，看到採集地點。"
@@ -128,21 +128,21 @@
 61,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_003,"孚布特王國有很多工匠，
 工坊每天都會製作出很多武器、防具或是裝飾品！
 會不會有變成草人的傑出工匠呢？"
-62,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_004,"我以前總是會送給艾奧·提兒羊奶和點心，
+62,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_004,"我以前總是會送給艾奧・提兒羊奶和點心，
 但是這次我想送一些你做的禮品。
 不知道你會準備什麼樣的東西？"
 63,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_000,"之前有羊啃食過我的枝葉，
 雖然這很怪，但我很樂意成為它們的食物……
 算、算了，果然飼料還是得用乾草或者岩鹽吧？"
 64,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_001,"為了抵禦山岳地區的嚴寒，石炭和木柴是不可或缺的。
-但我現在是一個草人，我真的怕這些石炭和木柴把我也點了！"
+但看到它們就擔心火會燒過來，這是草人的本能嗎……？"
 65,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_002,"這附近的山泉水和土地的品質都非常好，
 非常適合種植作物！
 作為草人，我這茂盛的枝葉便是最好的證明！"
 66,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_003,"說到山岳地區，那一定會有礦產資源，
 再透過畜牧業獲得毛皮就能製作很多東西了！
 也許在冬天之後略微回暖的時期也可以種植棉花。"
-67,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_004,"除了羊奶和點心以外艾奧·提兒會喜歡的東西……
+67,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_004,"除了羊奶和點心以外艾奧・提兒會喜歡的東西……
 大概是閃閃發光的石頭或者有著淡淡清香的花朵吧。
 說起這些讓我不禁回想起小時候的妹妹。"
 68,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_000,"雖然大家都以為羊只吃草，
@@ -158,7 +158,7 @@
 再考慮維護的話，還是想用身邊易獲得的材料。
 有沒有在河邊就獲得的材料呢？"
 72,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_004,"仙子族們喜歡有著漂亮顏色的東西。
-艾奧·提兒也一樣，
+艾奧・提兒也一樣，
 所以如果你有看到顏色漂亮的貝殼，我希望你能帶一些回來！"
 73,TEXT_CTSSFSCHARACTER9_00815_JUDGEMENT_ANDEN_000_000,"哦哦！
 幫大忙了，Player Player！
@@ -194,7 +194,7 @@
 我已經忍不住要拿來製作些什麼了！
 照這樣下去，我也許可以想起更多。"
 86,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_001,對了！我想起來了！
-87,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_002,"就像艾奧·提兒說的一樣！
+87,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_002,"就像艾奧・提兒說的一樣！
 我以前是一個牧羊人一直在照顧羊群！"
 88,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_003,"呵呵，沒錯！
 你能想起來真是太好了！"
@@ -224,8 +224,8 @@
 98,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_013,"哈哈哈！
 就是這個！
 你的反應實在是太有趣了！"
-99,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_014,"艾奧·提兒真是喜歡惡作劇啊。
-我變成這樣怕不是也會被小羊踢屁股。"
+99,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_014,"艾奧・提兒真是喜歡惡作劇啊。
+我變成這樣恐怕也會被小羊踢屁股。"
 100,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_015,"等等……
 被我最愛的可愛小羊們踢屁股似乎也挺不錯的？"
 101,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_001,"我想起來了！
@@ -272,7 +272,7 @@
 120,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_007,"之前喝酒時給酒友推薦奶酪的樣子，
 結果那傢伙喝得比平時要多好多！
 害得我被一起喝酒的矮人族一頓臭罵。"
-121,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_008,"艾奧·提兒……
+121,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_008,"艾奧・提兒……
 將我變來變去的，你是不是很開心？
 真是拿你沒辦法。"
 122,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_009,"呵呵呵！
@@ -291,7 +291,7 @@
 129,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_004,"當我回過神來的時候，我已經沉迷於皮革的工作了。
 因此我將籌備皮革的工作委託給了貓秘族！
 至於製作的東西一部分我自己在用，也有一部分拿去賣了……"
-130,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_005,"好了，淘氣鬼艾奧·提兒，
+130,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_005,"好了，淘氣鬼艾奧・提兒，
 我早就猜到你又要惡作劇了。
 真是拿你沒辦法……"
 131,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_006,"呵呵呵！
@@ -377,7 +377,7 @@ Player Player，接下來就從這方面入手吧！"
 170,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_001_000,Player Player，謝謝你帶這麼多東西給我！
 171,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_001_001,"而且能和你聊天我也非常高興！
 畢竟這裡能和我聊天的也只有仙子族，
-別說是聊天了，怕是會被他們一直捉弄。"
+所以我總是被他們捉弄啊……"
 172,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_002_000,"這次你也幫我籌備了很多東西呢，
 謝謝你，Player Player！"
 173,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_002_001,"雖然可能算不上謝禮，
@@ -388,19 +388,19 @@ Player Player，接下來就從這方面入手吧！"
 175,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_001,"可能是我平常很少與人打交道，
 所以我在和商人討價還價的時候總是被牽著鼻子走。
 在城堡下的商店做買賣的時候也是，對方的價格簡直黑死了！"
-176,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_002,"而在這方面，艾奧·提兒他們的想法就很簡單，
+176,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_002,"而在這方面，艾奧・提兒他們的想法就很簡單，
 比起和商人討價還價，和他們做生意更輕鬆！
 怎麼感覺我已經回不到人類世界的生活了……"
 177,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_000,"我說Player Player，
 你是不是很在意平常付給你的工票是從哪裡來的？"
-178,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_001,"其實這些都是羅兒·烏兒給我的，
+178,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_001,"其實這些都是羅兒・烏兒給我的，
 似乎是在伊爾美格迷路的人帶來的東西！
 妖精鄉現在變得太「熱鬧」了。"
 179,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_002,"把這些東西當做報酬總讓我有一種說不出的負罪感，
 現在你也知道這些東西的來源了，
 我終於不用一個人背負這股罪惡感了！"
 180,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_005_000,"Player Player……
-最近艾奧·提兒總是態度強勢地讓我成為他的小樹苗，
+最近艾奧・提兒總是態度強勢地讓我成為他的小樹苗，
 作為這方面的前輩你怎麼看？"
 181,TEXT_CTSSFSCHARACTER9_00815_RANKUP_EOTYR_005_001,"妖精王的小樹苗，你聽我說！
 我想和安登簽訂契約，可是安登完全不接受！"

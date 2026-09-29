@@ -113,8 +113,8 @@
 23,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★★★
-","模仿導彈的青魔法。
-發射乙太構成的虛假導彈。中彈時的衝擊力十分強勁，對於越是頑強的敵人越能造成更多傷害。",72223,0,0,85,35,4,True,False,False,False,False,False,False,False,False,False,False,True
+","模仿飛彈的青魔法。
+發射乙太構成的虛假飛彈。中彈時的衝擊力十分強勁，對於越是頑強的敵人越能造成更多傷害。",72223,0,0,85,35,4,True,False,False,False,False,False,False,False,False,False,False,True
 24,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★★
@@ -304,7 +304,7 @@
 **攻擊屬性：**無
 **評級：**★
 ","鷹蜂女王使用的青魔法。
-透過釋放特殊的荷爾蒙，可以命令蜂群守護自己。學會此青魔法後，經常會把隊友看成肉盾。",72262,0,0,41,61,4,False,True,False,False,False,False,False,False,False,False,False,False
+透過釋放特殊的費洛蒙，可以命令蜂群守護自己。學會此青魔法後，經常會把隊友看成肉盾。",72262,0,0,41,61,4,False,True,False,False,False,False,False,False,False,False,False,False
 62,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★
@@ -339,7 +339,7 @@
 **攻擊屬性：**無
 **評級：**★★
 ","模仿魔導兵器攻擊方式的青魔法。
-發射用魔力創造出的幻影導彈，讓敵人產生錯覺以為自己被攻擊了。錯覺越是強烈，實際受到的傷害就越大。",72269,0,0,219,68,4,True,False,False,False,False,False,False,False,False,False,False,True
+發射用魔力創造出的幻影飛彈，讓敵人產生錯覺以為自己被攻擊了。錯覺越是強烈，實際受到的傷害就越大。",72269,0,0,219,68,4,True,False,False,False,False,False,False,False,False,False,False,True
 69,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★★★
@@ -359,7 +359,7 @@
 **攻擊屬性：**無
 **評級：**★★★★
 ","瓦拉其族代代相傳的復活魔法。
-將像天使一樣的使魔作為媒介把魔力注入物件，可以使其復活。不過，瓦拉其族的宗教信仰中沒有天使，有關天使的起源仍是謎團。",72273,0,0,0,72,2,False,True,False,False,False,False,False,False,False,False,False,False
+將像天使一樣的使魔作為媒介把魔力注入對象，可以使其復活。不過，瓦拉其族的宗教信仰中沒有天使，有關天使的起源仍是謎團。",72273,0,0,0,72,2,False,True,False,False,False,False,False,False,False,False,False,False
 73,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★
@@ -379,7 +379,7 @@
 **攻擊屬性：**無
 **評級：**★★★
 ","自走人偶抄寫員使用的特殊魔法。
-調查對方的弱點，暫時擴大弱點範圍。某人偶師傅為了調查物件是否有外遇而製作的自走人偶，調查弱點的功能純屬偶然。",72277,0,0,196,76,4,True,False,False,False,False,False,False,False,False,False,False,False
+調查對方的弱點，暫時擴大弱點範圍。某人偶師傅為了調查伴侶是否有外遇而製作的自走人偶，調查弱點的功能純屬偶然。",72277,0,0,196,76,4,True,False,False,False,False,False,False,False,False,False,False,False
 77,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★★★
@@ -569,7 +569,7 @@
 **攻擊屬性：**無
 **評級：**★★★★
 ","緹坦妮雅的愛用符文。
-使用妖精語中蘊含咒文要素的「符文」放射乙太波動，受到乙太波動的物件將會因為共振現象而吸收「符文」放射出的乙太。",72315,0,0,657,114,4,True,True,False,False,False,False,False,False,False,False,False,False
+使用妖精語中蘊含咒文要素的「符文」放射乙太波動，受到乙太波動的對象將會因為共振現象而吸收「符文」放射出的乙太。",72315,0,0,657,114,4,True,True,False,False,False,False,False,False,False,False,False,False
 115,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★★★
@@ -579,7 +579,7 @@
 **攻擊屬性：**無
 **評級：**★★★
 ","得到寬恕的猥褻的絕招。
-將光屬性乙太以帶狀延伸進行的攻擊。充其量不過是透過魔法進行再現的產物，該攻擊不具備讓物件產生食罪靈化的效果。",72317,0,0,659,116,4,True,False,False,False,False,False,False,False,False,False,False,False
+將光屬性乙太以帶狀延伸進行的攻擊。充其量不過是透過魔法進行再現的產物，該攻擊不具備讓對象產生食罪靈化的效果。",72317,0,0,659,116,4,True,False,False,False,False,False,False,False,False,False,False,False
 117,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★★
@@ -598,7 +598,7 @@
 120,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★
-","美眼因克·佐恩的絕招。
+","美眼因克・佐恩的絕招。
 召喚大量糖果從頭頂落下，用香甜的衝擊為肉體帶來痛苦的傷害。雖然叫糖果手杖，但掉落的糖果中不乏手杖形狀以外的糖果，這些可能都是額外贈送的。",72321,0,0,649,120,4,True,True,False,False,False,False,False,False,False,False,False,False
 121,"**攻擊類型：**魔法
 **攻擊屬性：**火

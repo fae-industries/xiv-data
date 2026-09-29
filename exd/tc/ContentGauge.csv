@@ -81,8 +81,8 @@
 79,格威德魯特的雷力,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
 80,歐提斯的耐久度,,30,70,0,0,2,3,1,1,1,False
 81,天災徵兆,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
-82,伊可·索可·休瑪玖恩的魔力,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
-83,,,0,0,0,0,0,0,0,0,0,False
+82,伊可・索可・休瑪玖恩的魔力,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+83,封印的魔力,,100,-1,0,0,3,1,0,1,1,True
 84,呼嘯之劍的劍氣,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
 85,節奏感,,-1,-1,0,0,1,0,0,1,1,True
 86,澤蓮尼亞的乙太,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True

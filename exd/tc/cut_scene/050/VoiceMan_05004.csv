@@ -139,7 +139,7 @@
 65,TEXT_VOICEMAN_05004_000660_RYNE,我需要再接近一些才能做出更具體的判斷……
 66,TEXT_VOICEMAN_05004_000670_KAISHIRR,"(-？？？？-)啊！
 阿爾菲諾先生？這回我沒認錯吧？"
-67,TEXT_VOICEMAN_05004_000680_ALPHINAUD,"凱·希爾！
+67,TEXT_VOICEMAN_05004_000680_ALPHINAUD,"凱・希爾！
 你怎麼會在這裡？！"
 68,TEXT_VOICEMAN_05004_000690_ALISAIE,我檢查周圍情況的時候發現了個可疑的傢伙在窺探門前區。
 69,TEXT_VOICEMAN_05004_000700_ALISAIE,"叫住他之後……
@@ -162,7 +162,7 @@
 76,TEXT_VOICEMAN_05004_000770_KAISHIRR,"我記得他說了「沒用的東西！」一類的話，
 總之是非常生氣。"
 77,TEXT_VOICEMAN_05004_000780_URIANGER,"恐怕那艘飛空艇中乘的是遊末邦的士兵吧，
-因為安穆·艾蘭的靈光衛被你們打倒了，
+因為安穆・艾蘭的靈光衛被你們打倒了，
 因此他才雷霆大怒。"
 78,TEXT_VOICEMAN_05004_000790_KAISHIRR,"當他怒氣消了之後，我感覺到有一股……
 暖風吹了過來。"
@@ -363,15 +363,15 @@
 191,TEXT_VOICEMAN_05004_001820_DULIACHAI,"我有辦法！
 要啟動塔羅斯，就交給我丈夫吧！"
 192,TEXT_VOICEMAN_05004_001830_DULIACHAI,"他是代達羅斯公司的繼承人！
-專門負責研發安穆·艾蘭開礦用的塔羅斯！"
+專門負責研發安穆・艾蘭開礦用的塔羅斯！"
 193,TEXT_VOICEMAN_05004_001840_CHAINUZZ,"沒沒沒，我已經很多年沒再碰過了，
 都不知道還記不記得……"
 194,TEXT_VOICEMAN_05004_001850_DULIACHAI,辦、辦不到嗎？
 195,TEXT_VOICEMAN_05004_001860_CHAINUZZ,也、也不是辦不到……
 196,TEXT_VOICEMAN_05004_001870_CHAINUZZ,"只、只是去看看的話！
 但你們不要太抱期待！也不要數落我啊！"
-197,TEXT_VOICEMAN_05004_001880_CHAINUZZ,"來幾個人幫把手吧！
-升降機專用的塔羅斯我給收在倉庫裡了，
+197,TEXT_VOICEMAN_05004_001880_CHAINUZZ,"來幾個人幫忙吧！
+升降機專用的塔羅斯我收在倉庫裡了，
 大家一起來把它搬出來！"
 198,TEXT_VOICEMAN_05004_001890_ALISAIE,太好了，阿爾菲諾！
 199,TEXT_VOICEMAN_05004_001900_ALPHINAUD,我們也一起去吧！
@@ -471,7 +471,7 @@
 248,TEXT_VOICEMAN_05004_002360_ALISAIE,不知道登山的路上還會遇到多少……
 249,TEXT_VOICEMAN_05004_002370_ALISAIE,"話雖這麼說，不過現在還是要先想想怎麼上去。
 從這裡看好像沒什麼能攀爬的地方。"
-250,TEXT_VOICEMAN_05004_002380_ALISAIE,"雖然雅·修朵拉的擔心是可以理解的，
+250,TEXT_VOICEMAN_05004_002380_ALISAIE,"雖然雅・修朵拉的擔心是可以理解的，
 可現在看來，好像也只能使用飛空艇登山了吧……"
 251,TEXT_VOICEMAN_05004_002390_URIANGER,"(-？？？？-)你們在這裡啊。
 阿爾菲諾少爺正擔心你們呢。"
@@ -530,7 +530,7 @@
 279,TEXT_VOICEMAN_05004_002670_CHAINUZZ,"石材倒是不用從別處搬運，
 直接就地取材，鑿下火山周邊的岩石便可。
 工作雖然單調，但需要大量人手。"
-280,TEXT_VOICEMAN_05004_002680_THANCRED,"我在安穆·艾蘭那邊有一些礦山的朋友，
+280,TEXT_VOICEMAN_05004_002680_THANCRED,"我在安穆・艾蘭那邊有一些礦山的朋友，
 應該可以請他們來幫忙。"
 281,TEXT_VOICEMAN_05004_002690_ALISAIE,"你去琥珀丘那邊的話，
 我就去鼴靈市集找找。
@@ -683,7 +683,7 @@
 369,TEXT_VOICEMAN_05004_A8_000_002_NONE_VOICE,好像惹他生氣了
 370,TEXT_VOICEMAN_05004_003430_MYSTERYVOICE,"沒想到妖精王竟然會來幫我們，
 看來塔羅斯又能撐一會了。"
-371,TEXT_VOICEMAN_05004_003440_MYSTERYVOICE,"馬上聯繫雅·修朵拉他們，
+371,TEXT_VOICEMAN_05004_003440_MYSTERYVOICE,"馬上聯繫雅・修朵拉他們，
 去北邊格魯格火山會合，
 我們馬上開始登山！"
 372,TEXT_VOICEMAN_05004_003450_ALPHINAUD,"多虧了大家的幫助，我們終於來到了這裡。
@@ -921,7 +921,7 @@
 還不能掉以輕心。"
 499,TEXT_VOICEMAN_05004_004630_WARRIOROFDARKNESS,這就是現實……
 500,TEXT_VOICEMAN_05004_004640_WARRIOROFDARKNESS,"不僅是這裡，
-珂露西亞島、拉凱提卡大森林、安穆·艾蘭、伊爾美格……
+珂露西亞島、拉凱提卡大森林、安穆・艾蘭、伊爾美格……
 諾弗蘭特全境再次被光芒籠罩。"
 501,TEXT_VOICEMAN_05004_004650_WARRIOROFDARKNESS,因為你繼承了所有靈光衛的光之力……
 502,TEXT_VOICEMAN_05004_004660_WARRIOROFDARKNESS,不過只有那時在場的同伴知道。
