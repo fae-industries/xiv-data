@@ -62,6 +62,6 @@
 60,,0,0,0,0
 61,event/event_bt_idle,45,2,1,1
 62,battle/battle_start_null,45,0,1,1
-63,,0,0,0,0
+63,event/event_bt_idle_pose1,45,2,1,1
 64,,0,0,0,0
 65,,0,0,0,0

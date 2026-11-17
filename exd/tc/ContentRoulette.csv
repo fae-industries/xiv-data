@@ -28,7 +28,7 @@
 
 ※隨機任務中所獲得的額外Gil報酬由參加時的職業與等級決定，在任務過程中所獲得的Gil的差額會在最後作為報酬一併獲取。
 ※隨機任務的獎勵一天只能獲得一次。
-※組滿規定人數參加時不會獲得「少數職能獎勵」。",對應任務：Light Party用高難度迷宮,0,112057,0,0,705,0,0,60,40,0,0,5,2,100,100,5,1,142,2,0,0,1,0,90,0,2,0,0,4,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※組滿規定人數參加時不會獲得「少數職能獎勵」。",對應任務：Light Party用高難度迷宮,0,112057,0,0,720,0,0,60,40,0,0,5,2,100,100,5,1,142,2,0,0,1,0,90,0,2,0,0,4,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 6,隨機任務：討伐殲滅戰,討伐殲滅戰,,"隨機參加當前能夠加入的Full Party用討伐殲滅戰。成功完成任務後得到的報酬會大幅高於正常途徑參加同樣任務時的報酬。
 
 ※隨機任務的獎勵一天只能獲得一次。
@@ -40,11 +40,11 @@
 
 ※隨機任務中所獲得的額外Gil報酬由參加時的職業與等級決定，在任務過程中所獲得的Gil的差額會在最後作為報酬一併獲取。
 ※隨機任務的獎勵一天只能獲得一次。
-※組滿規定人數參加時不會獲得「少數職能獎勵」。",對應任務：Light Party用100級迷宮,0,112123,0,0,670,0,0,100,15,0,0,5,2,100,100,7,2,142,2,0,0,1,0,90,0,2,0,0,7,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※組滿規定人數參加時不會獲得「少數職能獎勵」。",對應任務：Light Party用100級迷宮,0,112123,0,0,690,0,0,100,15,0,0,5,2,100,100,7,2,142,2,0,0,1,0,90,0,2,0,0,7,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 9,隨機任務：指導者,指導者,,"隨機參加已經完成的指導者對應任務，僅限已成為戰鬥指導者的玩家使用。成功完成任務後得到的報酬會大幅高於正常途徑參加同樣任務時的報酬。
 
 ※隨機任務中所獲得的額外Gil報酬由參加時的職業與等級決定，在任務過程中所獲得的Gil的差額會在最後作為報酬一併獲取。
-※隨機任務的獎勵一天只能獲得一次。",對應任務：指導者對應任務,0,112144,0,0,715,0,0,30,10,0,0,5,2,100,100,8,10,142,1,0,0,1,0,30,120,2,0,0,8,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※隨機任務的獎勵一天只能獲得一次。",對應任務：指導者對應任務,0,112144,0,0,725,0,0,30,10,0,0,5,2,100,100,8,10,142,1,0,0,1,0,30,120,2,0,0,8,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 10,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 11,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 12,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -140,4 +140,4 @@
 
 ※勝利之星和水晶點會因比賽的勝負而變動。
 ※會與段位和階位相近的玩家進行配對。
-※會盡量平衡雙方小隊成員的職業構成、段位、階位來進行分組。",,0,112472,0,0,0,0,0,0,0,0,40030,0,3,30,30,0,48,146,29,3,1,6,43,5,0,0,0,1,-1,False,True,True,False,True,False,False,False,False,False,False,False,True,False
+※會盡量平衡雙方小隊成員的職業構成、段位、階位來進行分組。",,0,112472,0,0,0,0,0,0,0,0,40030,0,3,30,30,0,48,146,29,3,1,6,43,5,0,0,0,1,-1,False,True,True,False,True,False,False,False,False,False,False,False,True,True

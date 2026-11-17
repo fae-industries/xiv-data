@@ -86,5 +86,5 @@
 84,呼嘯之劍的劍氣,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
 85,節奏感,,-1,-1,0,0,1,0,0,1,1,True
 86,澤蓮尼亞的乙太,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
-87,,,0,0,0,0,0,0,0,0,0,False
-88,,,0,0,0,0,0,0,0,0,0,False
+87,對死亡的恐懼,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+88,,,-1,-1,0,1,0,0,0,1,1,True
